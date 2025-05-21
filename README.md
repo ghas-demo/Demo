@@ -1,1 +1,1 @@
-# ghas-demo
+GHAS Demo
